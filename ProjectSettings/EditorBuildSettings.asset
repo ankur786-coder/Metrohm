@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Script/ARCard.unity
+    guid: d024df91425d1a2448a1137131f1eef4
+  - enabled: 1
+    path: Assets/Task/ARCard.unity
+    guid: 51c53c0f09c063b4cb9cfb83179c506f
+  - enabled: 1
+    path: Assets/Task/FasterScene.unity
+    guid: 7b8b4d2056097d4459f4162a692229ad
+  - enabled: 1
+    path: Assets/Task/SaferScene.unity
+    guid: 0ba1345cb875cc741841a1d368e8224e
+  - enabled: 1
+    path: Assets/Task/EasierScene.unity
+    guid: 38d150da038466045ada8845b2a2ee1e
+  m_configObjects: {}
